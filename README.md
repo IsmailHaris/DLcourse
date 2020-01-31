@@ -18,6 +18,7 @@
  * slides of [course on Semantic Segmentation with convNets](https://github.com/fabienMoutarde/DLcourse/blob/master/deepLearning-for-SceneAnalysis-and-SemanticSegmentation_course-FabienMOUTARDE_2pp.pdf)
  
 ## Session 5: Practical on Deep-Learning for Semantic Segmentation + course on Unsupervised Generative Deep-Learning
+ * [INSTRUCTIONS](https://github.com/fabienMoutarde/DLcourse/blob/master/tp4-instructions_practical_DeepLearning-SemanticSegmentation.html)  for practical session on Semantic Segmentation with Deep-Learning 
  * [notebook for practical session on Deep-Learning for semantic SEGMENTATION]()
  * slides of [course on Unsupervised Generative Deep-Learning](https://github.com/fabienMoutarde/DLcourse/blob/master/deepLearning-DBN-DSA-GAN_course-FabienMOUTARDE_2pp.pdf)
  
