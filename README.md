@@ -16,3 +16,8 @@
  * [INSTRUCTIONS](https://github.com/fabienMoutarde/DLcourse/blob/master/tp3-instructions_practical_DeepLearning-visualObjectDetection_MS-HPC-IA.html) for practical session on Deep-Learning for Visual Objects DETECTION
  * [notebook for practical session on Deep-Learning for Visual Objects DETECTION](https://github.com/fabienMoutarde/DLcourse/blob/master/tp3-notebook_Practical_visualObjectDetection_YOLOv3.ipynb)
  * slides of [course on Semantic Segmentation with convNets](https://github.com/fabienMoutarde/DLcourse/blob/master/deepLearning-for-SceneAnalysis-and-SemanticSegmentation_course-FabienMOUTARDE_2pp.pdf)
+ 
+## Session 5: Practical on Deep-Learning for Semantic Segmentation + course on Unsupervised Generative Deep-Learning
+ * [notebook for practical session on Deep-Learning for semantic SEGMENTATION]()
+ * slides of [course on Unsupervised Generative Deep-Learning]()
+ 
