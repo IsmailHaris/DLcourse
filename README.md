@@ -18,8 +18,9 @@
  * [notebook for practical session on Deep-Learning for Visual Objects DETECTION](https://github.com/fabienMoutarde/DLcourse/blob/master/tp3-notebook_Practical_visualObjectDetection_YOLOv3.ipynb)
 
 ## Session 5: Course on Recurrent Neural Networks (RNN) + course on Semantic Segmentation with convNets (?) Practical on Deep-Learning for Semantic Segmentation (?)
-  * slides of [course on Recurrent ](https://github.com/fabienMoutarde/DLcourse/blob/master/??.pdf)
+  * slides of [course on Recurrent Neural Networks](https://github.com/fabienMoutarde/DLcourse/blob/master/deepLearning-RNN_course-FabienMOUTARDE_2pp.pdf)
   * slides of [course on Semantic Segmentation with convNets](https://github.com/fabienMoutarde/DLcourse/blob/master/deepLearning-for-SceneAnalysis-and-SemanticSegmentation_course-FabienMOUTARDE_2pp.pdf)
+  
   * [INSTRUCTIONS](https://github.com/fabienMoutarde/DLcourse/blob/master/tp4-instructions_practical_DeepLearning-SemanticSegmentation.html)  for practical session on Semantic Segmentation with Deep-Learning 
  * [notebook for practical session on Deep-Learning for semantic SEGMENTATION](???)
 
